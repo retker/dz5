@@ -1,0 +1,6 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "^6.1",
+        "intervention/image": "^2.4"
+    }
+}
